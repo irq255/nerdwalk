@@ -1,0 +1,12 @@
+bin
+target
+src/main/filters/*
+src/main/webapp/META-INF
+.classpath
+.project
+.settings
+*.iml
+*.ipr
+*.iws
+*.idea
+attendees.csv
