@@ -2,6 +2,7 @@ bin
 target
 src/main/filters/*
 src/main/webapp/META-INF
+tomcat*/
 .classpath
 .project
 .settings
